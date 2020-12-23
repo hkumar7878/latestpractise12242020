@@ -1,0 +1,2 @@
+INFO    2020-12-24 02:25:24,053 [main] devpinoyLogger  - Chrome browwer launched
+INFO    2020-12-24 02:25:28,354 [main] devpinoyLogger  - inside the base class method browser initilization
